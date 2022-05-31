@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to My Github! 👋
+
+- :revolving_hearts: Pronouns: She/her
+- :books: About: Recent college Graduate with Bachelor's Degree in Computer Information Systems looking to become a Software Engineer
+- :email: Contact Me: rachannbell@gmail.com
 
 <!--
 **Rbell71390/Rbell71390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
